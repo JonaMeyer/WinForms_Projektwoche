@@ -8,3 +8,6 @@ C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinFormsClient\obj\Deb
 C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinFormsClient\obj\Debug\WinFormsClient.pdb
 C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinFormsClient\bin\Debug\IPv4AddressTextBox.dll
 C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\Jona\Desktop\WinForms_Projektwoche\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\Jona\Desktop\WinForms_Projektwoche\WinFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\Jona\Desktop\WinForms_Projektwoche\WinFormsClient\obj\Debug\WinFormsClient.pdb
