@@ -1,0 +1,2 @@
+c:\users\freak\documents\visual studio 2015\Projects\WinForms_Projektwoche\WinForms_Projektwoche\bin\Debug\WinForms_Projektwoche.exe.config
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\bin\Debug\WinForms_Projektwoche.exe.config
