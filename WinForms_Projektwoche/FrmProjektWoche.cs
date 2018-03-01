@@ -16,5 +16,10 @@ namespace WinForms_Projektwoche
         {
             InitializeComponent();
         }
+
+        private void FrmProjektWoche_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

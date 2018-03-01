@@ -1,2 +1,10 @@
 c:\users\freak\documents\visual studio 2015\Projects\WinForms_Projektwoche\WinForms_Projektwoche\bin\Debug\WinForms_Projektwoche.exe.config
 C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\bin\Debug\WinForms_Projektwoche.exe.config
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\obj\Debug\WinForms_Projektwoche.csprojResolveAssemblyReference.cache
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\obj\Debug\WinForms_Projektwoche.FrmProjektWoche.resources
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\obj\Debug\WinForms_Projektwoche.Properties.Resources.resources
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\obj\Debug\WinForms_Projektwoche.csproj.GenerateResource.Cache
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\bin\Debug\WinForms_Projektwoche.exe
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\bin\Debug\WinForms_Projektwoche.pdb
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\obj\Debug\WinForms_Projektwoche.exe
+C:\Users\Jona\Dropbox\Bank of Japan\WinForms_Projektwoche\WinForms_Projektwoche\obj\Debug\WinForms_Projektwoche.pdb

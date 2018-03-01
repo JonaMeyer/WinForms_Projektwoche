@@ -55,6 +55,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "FrmProjektWoche";
             this.Text = "Network";
+            this.Load += new System.EventHandler(this.FrmProjektWoche_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Sockets;
 
-namespace xxx
+namespace WinFormsClient
 {
     public class ClientDisconnectedEventArgs : EventArgs
     {
